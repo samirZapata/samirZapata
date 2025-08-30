@@ -8,7 +8,7 @@ I am a Systems Engineer and also hold a degree as a Systems Technician. I posses
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [yzasprilla@gmail.com](mailto:yzasprilla@gmail.com)
-* 🚀  I'm currently working on [Macrominds](http://https://macrominds.tech/)
+* 🚀  I'm currently working on [Macrominds](http://macrominds.tech/)
 * 🧠  I'm currently learning Python, Django
 
 <p align="left">
